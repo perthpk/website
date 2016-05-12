@@ -13,6 +13,7 @@ TIMEZONE = 'Australia/Perth'
 DEFAULT_LANG = 'en'
 
 THEME = "themes/medius"
+INDEX_SAVE_AS = 'pages/blog.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -23,8 +24,6 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget

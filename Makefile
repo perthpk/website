@@ -78,5 +78,6 @@ publish:
 
 s3_upload: publish
 	s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed --guess-mime-type
+	aws cloudfront create-invalidation --distribution-id  E1I4ZVGQTLW0WU --paths '/*'
 
 .PHONY: html help clean regenerate serve serve-global devserver publish s3_upload 
