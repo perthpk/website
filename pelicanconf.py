@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Perth Parkour'
 SITENAME = 'Perth Parkour'
 SITEURL = ''
 
@@ -22,9 +21,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+MENUITEMS = (('Blog', '/pages/blog.html'),)
+DISPLAY_CATEGORIES_ON_MENU = False
+
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Pelican', 'http://getpelican.com/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
