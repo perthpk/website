@@ -13,9 +13,9 @@ Saturday morning had a focussed atmosphere. I got up and greeted everyone, most 
 
 We covered a range of topics in the morning. An important part was to map out where we are, what our current priorities and purpose is and then check that all our current tasks meet these objectives. Eliot did a great job coordinating these discussions and madly whiteboarding everything. We came to the conclusion that our current main objectives center around:
 
-    Creating instructors
-    Supporting community leaders and
-    Providing a central knowledge base for parkour in Australia
+ * Creating instructors
+ * Supporting community leaders and
+ * Providing a central knowledge base for parkour in Australia
 
 We went into significant detail on all the tasks involved in each of these areas and projects we are working on to provide the outcomes we’re looking for.
 
